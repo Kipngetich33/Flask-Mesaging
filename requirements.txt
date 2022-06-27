@@ -62,7 +62,7 @@ python-dateutil==2.7.5
 python-debian==0.1.27
 python-systemd==231
 pyxdg==0.25
-reportlab==3.3.0
+reportlab==3.5.55
 requests==2.22.0
 semantic-version==2.8.2
 sessioninstaller==0.0.0
